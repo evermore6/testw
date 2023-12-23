@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Style for the main content */
+
+/* Style for the footer */
+footer {
+  background-color: #020d14; /* Warna latar belakang sesuaikan dengan kebutuhan */
+  color: #f04e04; /* Warna teks sesuaikan dengan kebutuhan */
+  text-align: center;
+  padding: 10px;
+}
+
+/* Center the content in the footer */
+footer .box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
